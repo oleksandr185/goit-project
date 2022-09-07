@@ -42,4 +42,4 @@ if (false) {
 throw new Error('Something went wrong');
 
 // There's a lot more Quokka can do! Visit our docs to learn more:
-// - https://quokkajs.com/docs/
+// - https://quokkajs.com/d
