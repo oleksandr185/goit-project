@@ -1,3 +1,23 @@
+/* about style */
 .about {
-    color: red;
+    background-color: violet;
+}
+.project {
+    background-color: green;
+}
+/* project style */
+.project_title {
+    font-size: 60px;
+    color: brown;
+}
+/* work style  */
+.work {
+    background-color: aqua;
+}
+/* education  */
+.education {
+    background-color: yellow;
+}
+.aside {
+    background-color: coral;
 }
