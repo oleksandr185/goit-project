@@ -1,9 +1,25 @@
+.main {
+    display:flex;
+    flex-direction: row-reverse;
+    background-color: blue;
+    width: 1200px;
+    margin: 0 auto;
+}
+/* <!main-content */
+.main-content {
+    background-color: antiquewhite;
+}
+body {font-family: 'Roboto', sans-serif;}
 /* about style */
 .about {
     background-color: violet;
 }
 .project {
     background-color: green;
+    margin-top: 100px;
+    margin-bottom:300px ;
+    margin-left: 60px;
+    margin-right: 90px;
 }
 /* project style */
 .project_title {
@@ -13,11 +29,15 @@
 /* work style  */
 .work {
     background-color: aqua;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
 }
 /* education  */
 .education {
     background-color: yellow;
 }
 .aside {
-    background-color: coral;
+    background-color: yellow;
 }
